@@ -11,4 +11,4 @@ The following is a simple record for the task assignment.
 - Task 1: Project Proposal Setup (Deadline Mar 17, 2024) @Zhongsheng@Jiahao@Shuzheng@Kairui **Done**
 - Task 2: Proposal Document Translation and final check (Deadline Mar 17, 2024) @Siyu@Xiaojun@Hongfei **To-do**
 
-Stage 2: Position assignment and product documentation determination: TBA
+## Stage 2: Position assignment and product documentation determination: TBA
