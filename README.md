@@ -1,4 +1,4 @@
-# CS 732 Group Project
+# CS 732 Group Project: EchoLink
 
 This is the Github repo for COMPSCI 732/SOFTENG 750: Software Tools and Techniques Group Project.
 
