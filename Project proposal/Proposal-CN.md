@@ -120,8 +120,19 @@
 
 ## Technologies
 
+技术栈: React.js + NodeJS + coturn (可能包含GoLang, ReactNative, WASM)
 
+我们计划使用React完成前端页面的构建, 使用 node 实现信令服务器,  使用 coturn 作为 STUN 与 TURN 服务器实现.
 
+- React: React是前端开发经典框架. React的生态系统也非常丰富，我们可以轻松地找到和WebRTC兼容的库和工具来加速开发。
+- Node.js: JavaScript的异步特性使得它处理实时通信应用时更加高效。Node.js也有很多成熟的WebRTC和WebSocket库，可以帮助快速实现信令交换
+- Coturn: Coturn是目前最流行的网络服务开源项目之一，能够提供可靠的NAT穿透服务。这对于P2P视频会议应用的稳定性和可接入性至关重要。
+
+如果时间充足, 我们还计划引入以下技术优化用户体验:
+
+- GoLang: 使用GoLang实现信令服务器, STUN 与 TURN 服务器.Golang在并发处理和网络服务方面的性能表现优秀，特别是其原生的并发模型goroutine，可以让开发高效的并发应用变得简单
+- ReactNative: 使用 ReactNative将前端网页扩展为跨平台应用, 以便用户可以在移动设备上使用
+- WebAssembly: 使用 WASM 为视频回忆加入一些特效, WASM 允许我们高效的执行一些复杂的计算任务, 例如图像处理
 
 ## Project management
 
