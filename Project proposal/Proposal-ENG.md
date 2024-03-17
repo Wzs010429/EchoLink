@@ -73,6 +73,8 @@ In summarizing the advantages and issues of the aforementioned software, we plan
 
 Through a comprehensive analysis of these core requirements and improvements on existing problems identified in competitive products, EchoLink aims to provide a secure and efficient internal communication solution, meeting the specific needs of small businesses in terms of data security, communication quality, and team collaboration.
 
+## Requirements
+
 Based on group discussions and a reasonable analysis of each individual's technology stack, we've outlined the features that our team can implement in EchoLink. We anticipate tackling some potential technical challenges through learning and problem-solving in the future development cycles. We've categorized the functionalities into four sections: Must-Haves, Should-Haves, Could-Haves, and Nice-to-Haves. (Due to word count limitations, only a brief description of the functionalities is provided here.)
 
 ### Must-Haves
@@ -99,6 +101,9 @@ Based on group discussions and a reasonable analysis of each individual's techno
 - Broader Cross-Platform Support: Extend to mobile platforms such as iOS and Android to increase the software’s accessibility and convenience.
 - Advanced Message Management: Offer more advanced chat history management features, such as tagging, categorization, and advanced search.
 - Enhanced Network Stability: Further optimize the software to perform well in unstable network conditions, increasing user satisfaction.
+
+
+## Technologies
 
 To optimize the development process and ensure the performance and availability of EchoLink, our team has decided to make some minor adjustments to the traditional MERN stack to better meet the demands of instant communication and multimedia data transmission, while also considering future scalability and cross-platform compatibility. Below is a list of the necessary technology stack for EchoLink's development and potential optimizations we consider for the future.
 
@@ -136,8 +141,6 @@ To ensure efficient progress and quality delivery of the project, we will adopt 
 
 EchoLink's development is divided into several sprints, the specific number of which can be flexibly adjusted according to project progress and team capability. Through the above management strategies, our team can collaborate efficiently while ensuring development quality and quickly responding to changes in project requirements.
 
-
-EchoLink's development plan is divided into several sprints, with the specific number flexibly adjusted according to project progress and team capabilities. Through the aforementioned management strategies, our team can efficiently collaborate while ensuring the quality of development and swiftly responding to changes in project requirements.
 
 ## Risks in Team Projects
 
